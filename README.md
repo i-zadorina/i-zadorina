@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @i-zadorina
+- 👋 Hi, I’m Irina Zadorina
 - 👀 I’m interested in Frontend Developing
 - 🌱 I’m currently learning JavaScript and Node.js
 - 💞️ I’m looking to collaborate on some outsourcing projects
