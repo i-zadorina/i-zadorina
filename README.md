@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **seeking open projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina)
+- 👨‍💻 All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina) and https://vercel.com/irina-zadorinas-projects
 
 - 💬 Ask me about **anything**
 
