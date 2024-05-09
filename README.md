@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/irina_zadorina" target="blank"><img src="https://img.shields.io/twitter/follow/irina_zadorina?logo=twitter&style=for-the-badge" alt="irina_zadorina" /></a> </p>
 
-- 🔭 I’m a environmental engineer and GIS-specialist becoming a Full Stack Web Developer through TripleTen Bootcamp.
+- 🔭 I’m an environmental engineer and GIS-specialist becoming a Full Stack Web Developer through TripleTen Bootcamp.
 
 - 🌱 I’m currently learning **JavaScript and Node.js**
 
