@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irina Zadorina</h1>
-<h3 align="center">A junior frontend developer from Israel</h3>
+<h3 align="center">Aspiring frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-zadorina&label=Profile%20views&color=0e75b6&style=flat" alt="i-zadorina" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/irina_zadorina" target="blank"><img src="https://img.shields.io/twitter/follow/irina_zadorina?logo=twitter&style=for-the-badge" alt="irina_zadorina" /></a> </p>
 
-- 🔭 I’m currently studing in [Bootcamp of TripleTen](a Full Stack Web Developer)
+- 🔭 I’m a environmental engineer and GIS-specialist becoming a Full Stack Web Developer through TripleTen Bootcamp.
 
 - 🌱 I’m currently learning **JavaScript and Node.js**
 
 - 👯 I’m looking to collaborate on **some outsourcing projects**
 
-- 🤝 I’m looking for help with **seeking open projects**
+- 🤝 I’m currently working on **AroundtheUS (https://i-zadorina.github.io/se_project_aroundtheus/)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina) and https://vercel.com/irina-zadorinas-projects
 
