@@ -9,15 +9,15 @@
 
 - 🔭 I’m an environmental engineer and GIS-specialist becoming a Full Stack Web Developer through TripleTen Bootcamp.
 
-- 🌱 I’m currently learning **JavaScript and Node.js**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **some outsourcing projects**
 
-- 🤝 I’m currently working on **AroundtheUS (https://i-zadorina.github.io/se_project_aroundtheus/)**
+- 🤝 I’m currently working on **WTWR (https://github.com/i-zadorina/se_project_react)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina) and https://vercel.com/irina-zadorinas-projects
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **my way**
 
 - 📫 How to reach me **i.s.zadorina@gmail.com**
 
