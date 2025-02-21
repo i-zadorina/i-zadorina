@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **some outsourcing projects**
 
-- 🤝 I’m currently working on **WTWR (https://github.com/i-zadorina/se_project_react)**
+- 🤝 I’m currently working on **tax-map (https://github.com/i-zadorina/tax-map_final_project)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina) and https://vercel.com/irina-zadorinas-projects
 
