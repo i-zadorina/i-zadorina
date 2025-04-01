@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irina Zadorina</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-zadorina&label=Profile%20views&color=0e75b6&style=flat" alt="i-zadorina" /> </p>
 
@@ -7,23 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/irina_zadorina" target="blank"><img src="https://img.shields.io/twitter/follow/irina_zadorina?logo=twitter&style=for-the-badge" alt="irina_zadorina" /></a> </p>
 
-- 🔭 I’m an environmental engineer and GIS-specialist becoming a Full Stack Web Developer through TripleTen Bootcamp.
+- 🌱 I’m an environmental engineer and GIS-specialist becoming a Full Stack Web Developer through TripleTen Bootcamp.
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently learning **Deployment**
 
 - 👯 I’m looking to collaborate on **some outsourcing projects**
 
-- 🤝 I’m currently working on **tax-map (https://github.com/i-zadorina/tax-map_final_project)**
+- 🤝 I’m currently working on **tax-map (https://tax.mappuchan.com/)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina) and https://vercel.com/irina-zadorinas-projects
-
-- 💬 Ask me about **my way**
+- 👨‍💻 All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina) and https://vercel.com/irina-zadorinas-projects:
+- First commercial project **Recombine AI**: https://recombine.ai/
+- FullStack App **TaxMap**: https://tax.mappuchan.com **Frontend:** https://github.com/i-zadorina/tax-map_final_frontend **Backend:** https://github.com/i-zadorina/tax-map_final_backend
+- FullStack App **WTWR**: wtwr.teachmetofish.net **Frontend:** https://github.com/i-zadorina/se_project_react **Backend:** https://github.com/i-zadorina/se_project_express
+- Frontend App **AroundTheUS**: https://se-project-aroundtheus-rosy.vercel.app/ **Repo:** https://github.com/i-zadorina/se_project_aroundtheus
+- Frontend App **Library**: https://se-project-library-rho.vercel.app/ **Repo:** https://github.com/i-zadorina/se_project_library
+- Frontend App **Coffeeshop**: https://se-project-coffeeshop.vercel.app/ **Repo:** https://github.com/i-zadorina/se_project_coffeeshop
+- First Frontend App **AboutMe**: https://i-zadorina.github.io/aboutme/ **Repo:** https://github.com/i-zadorina/aboutme
 
 - 📫 How to reach me **i.s.zadorina@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/irina-developer/](https://www.linkedin.com/in/irina-developer/)
-
-- ⚡ Fun fact **I begin a new life in the new country in my 38**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
