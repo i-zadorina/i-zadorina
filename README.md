@@ -15,14 +15,14 @@
 
 - 🤝 I’m currently working on **tax-map (https://tax.mappuchan.com/)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina) and https://vercel.com/irina-zadorinas-projects:
-- First commercial project **Recombine AI**: https://recombine.ai/
-- FullStack App **TaxMap**: https://tax.mappuchan.com **Frontend:** https://github.com/i-zadorina/tax-map_final_frontend **Backend:** https://github.com/i-zadorina/tax-map_final_backend
-- FullStack App **WTWR**: wtwr.teachmetofish.net **Frontend:** https://github.com/i-zadorina/se_project_react **Backend:** https://github.com/i-zadorina/se_project_express
-- Frontend App **AroundTheUS**: https://se-project-aroundtheus-rosy.vercel.app/ **Repo:** https://github.com/i-zadorina/se_project_aroundtheus
-- Frontend App **Library**: https://se-project-library-rho.vercel.app/ **Repo:** https://github.com/i-zadorina/se_project_library
-- Frontend App **Coffeeshop**: https://se-project-coffeeshop.vercel.app/ **Repo:** https://github.com/i-zadorina/se_project_coffeeshop
-- First Frontend App **AboutMe**: https://i-zadorina.github.io/aboutme/ **Repo:** https://github.com/i-zadorina/aboutme
+- 👨‍💻 __All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina) and https://vercel.com/irina-zadorinas-projects:__
+_First commercial project **Recombine AI**: https://recombine.ai/_
+_FullStack App **TaxMap**: https://tax.mappuchan.com **Frontend:** https://github.com/i-zadorina/tax-map_final_frontend **Backend:** https://github.com/i-zadorina/tax-map_final_backend_
+_FullStack App **WTWR**: wtwr.teachmetofish.net **Frontend:** https://github.com/i-zadorina/se_project_react **Backend:** https://github.com/i-zadorina/se_project_express_
+_Frontend App **AroundTheUS**: https://se-project-aroundtheus-rosy.vercel.app/ **Repo:** https://github.com/i-zadorina/se_project_aroundtheus_
+_Frontend App **Library**: https://se-project-library-rho.vercel.app/ **Repo:** https://github.com/i-zadorina/se_project_library_
+_Frontend App **Coffeeshop**: https://se-project-coffeeshop.vercel.app/ **Repo:** https://github.com/i-zadorina/se_project_coffeeshop_
+_First Frontend App **AboutMe**: https://i-zadorina.github.io/aboutme/ **Repo:** https://github.com/i-zadorina/aboutme_
 
 - 📫 How to reach me **i.s.zadorina@gmail.com**
 
