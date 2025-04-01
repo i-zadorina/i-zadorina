@@ -16,23 +16,30 @@
 - 🤝 I’m currently working on **tax-map (https://tax.mappuchan.com/)**
 
 - 👨‍💻 __All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina) and https://vercel.com/irina-zadorinas-projects:__
-- _First commercial project **Recombine AI**: https://recombine.ai/_
-- _FullStack App **TaxMap**: https://tax.mappuchan.com_
+
+  _First commercial project **Recombine AI**: https://recombine.ai/_
+
+  _FullStack App **TaxMap**: https://tax.mappuchan.com_
 
   Frontend: https://github.com/i-zadorina/tax-map_final_frontend Backend: https://github.com/i-zadorina/tax-map_final_backend
-- _FullStack App **WTWR**: https://wtwr.teachmetofish.net/_
+
+  _FullStack App **WTWR**: https://wtwr.teachmetofish.net/_
 
   Frontend: https://github.com/i-zadorina/se_project_react Backend: https://github.com/i-zadorina/se_project_express
-- _Frontend App **AroundTheUS**: https://se-project-aroundtheus-rosy.vercel.app/_
+
+  _Frontend App **AroundTheUS**: https://se-project-aroundtheus-rosy.vercel.app/_
 
   Repo: https://github.com/i-zadorina/se_project_aroundtheus
-- _Frontend App **Library**: https://se-project-library-rho.vercel.app/_
+
+  _Frontend App **Library**: https://se-project-library-rho.vercel.app/_
 
   Repo: https://github.com/i-zadorina/se_project_library
-- _Frontend App **Coffeeshop**: https://se-project-coffeeshop.vercel.app/_
+
+  _Frontend App **Coffeeshop**: https://se-project-coffeeshop.vercel.app/_
 
   Repo: https://github.com/i-zadorina/se_project_coffeeshop
-- _First Frontend App **AboutMe**: https://i-zadorina.github.io/aboutme/_
+
+  _First Frontend App **AboutMe**: https://i-zadorina.github.io/aboutme/_
 
   Repo: https://github.com/i-zadorina/aboutme
 
