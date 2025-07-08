@@ -9,12 +9,6 @@
 
 - 🌱 I’m an environmental engineer and GIS-specialist becoming a Full Stack Web Developer through TripleTen Bootcamp.
 
-- 🔭 I’m currently learning **Deployment**
-
-- 👯 I’m looking to collaborate on **some outsourcing projects**
-
-- 🤝 I’m currently working on **tax-map (https://tax.mappuchan.com/)**
-
 - 👨‍💻 __All of my projects are available at [https://github.com/i-zadorina](https://github.com/i-zadorina) and https://vercel.com/irina-zadorinas-projects:__
 
   _First commercial project **Recombine AI**: https://recombine.ai/_
