@@ -14,7 +14,7 @@
   _FullStack App **TaxMap**: https://https://taxesmap.net_
   Frontend: https://github.com/i-zadorina/tax-map_final_frontend Backend: https://github.com/i-zadorina/tax-map_final_backend
   
-  _FullStack App **WTWR**: https://wtwr.teachmetofish.net/_
+  _FullStack App **WTWR**: https://wtwr.net/_
   Frontend: https://github.com/i-zadorina/se_project_react Backend: https://github.com/i-zadorina/se_project_express
   
   _Frontend App **AroundTheUS**: https://se-project-aroundtheus-rosy.vercel.app/_
