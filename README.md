@@ -26,7 +26,7 @@
   _Frontend App **Coffeeshop**: https://se-project-coffeeshop.vercel.app/_
   Repo: https://github.com/i-zadorina/se_project_coffeeshop
 
-  _First Frontend App **AboutMe**: https://i-zadorina.github.io/aboutme/_
+  _First Frontend App **AboutMe**: https://i-zadorina.github.io/me/_
   Repo: https://github.com/i-zadorina/aboutme
 
 - 📫 How to reach me **i.s.zadorina@gmail.com**
